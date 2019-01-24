@@ -1,4 +1,6 @@
-print("Hellow world")
-print("Hellow everyone")
-print("Hellow world !!!")
-print("Hello my dear friend")
+<<<<<<< HEAD
+print("Hellow world;")
+print("Hellow everyone;")
+print("Hellow world ;")
+print("Hello my dear friend;")
+print("Glad to see you;")
